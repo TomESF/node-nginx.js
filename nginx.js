@@ -3,9 +3,9 @@ const FILE_PATH = process.env.FILE_PATH || './temp';
 const UUID = process.env.UUID || 'f7f6cfc6-ea70-4493-beb8-337c831cbfdf';
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'nz1.tomes.eu.org';
 const NEZHA_PORT = process.env.NEZHA_PORT || '443';
-const NEZHA_KEY = process.env.NEZHA_KEY || 'yTlzu0wlVFCHTeFdZ4';
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'mjj.tomes.eu.org';
-const ARGO_AUTH = process.env.ARGO_AUTH || '{"AccountTag":"656dcef26f7fb4cfc60ef40fb9e86aca","TunnelSecret":"ygAVpAaa6y5UznExujyY4SejQmqq+YxrIhrcHYI+Zq4=","TunnelID":"a92f61a8-67ad-43ad-b39e-75c7622bfcc1"}';
+const NEZHA_KEY = process.env.NEZHA_KEY || 'XUjXXrsvxgeP6shUq7';
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'no.tomes.eu.org';
+const ARGO_AUTH = process.env.ARGO_AUTH || '{"AccountTag":"656dcef26f7fb4cfc60ef40fb9e86aca","TunnelSecret":"k+r4zTCxStvGt3daiAS8ZrtXmKIYiB09xk7GTA7tu6w=","TunnelID":"53d6147d-fb43-4b27-9d42-2eb20e78a45e"}';
 const CFIP = process.env.CFIP || 'www.visa.co.jp';
 const NAME = process.env.NAME || 'gl_back4';
 
