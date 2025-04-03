@@ -1,6 +1,6 @@
 const AgoPort = process.env.ARGO_PORT || 8080; //ARGO端口
 const FILE_PATH = process.env.FILE_PATH || './temp';
-const UUID = process.env.UUID || '113195ac-5c8a-4d38-8067-2f5057d70380';
+const UUID = process.env.UUID || 'f7f6cfc6-ea70-4493-beb8-337c831cbfdf';
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'nz1.tomes.eu.org';
 const NEZHA_PORT = process.env.NEZHA_PORT || '443';
 const NEZHA_KEY = process.env.NEZHA_KEY || 'nFhwftsxMQWyVJvRJh';
